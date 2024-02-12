@@ -1,7 +1,7 @@
 // db.js
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://sharma04anamika:OeGLhdKnzHbdnOJX@cluster0.g4ymeu6.mongodb.net/Marketplace?retryWrites=true&w=majority', {
+mongoose.connect('a mongodb url', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
